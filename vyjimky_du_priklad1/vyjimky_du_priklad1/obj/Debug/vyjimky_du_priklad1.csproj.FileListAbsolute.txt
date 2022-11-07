@@ -1,0 +1,11 @@
+C:\Users\filip\source\repos\vyjimky_du_priklad1\vyjimky_du_priklad1\bin\Debug\vyjimky_du_priklad1.exe.config
+C:\Users\filip\source\repos\vyjimky_du_priklad1\vyjimky_du_priklad1\bin\Debug\vyjimky_du_priklad1.exe
+C:\Users\filip\source\repos\vyjimky_du_priklad1\vyjimky_du_priklad1\bin\Debug\vyjimky_du_priklad1.pdb
+C:\Users\filip\source\repos\vyjimky_du_priklad1\vyjimky_du_priklad1\obj\Debug\vyjimky_du_priklad1.csproj.AssemblyReference.cache
+C:\Users\filip\source\repos\vyjimky_du_priklad1\vyjimky_du_priklad1\obj\Debug\vyjimky_du_priklad1.csproj.SuggestedBindingRedirects.cache
+C:\Users\filip\source\repos\vyjimky_du_priklad1\vyjimky_du_priklad1\obj\Debug\vyjimky_du_priklad1.Form1.resources
+C:\Users\filip\source\repos\vyjimky_du_priklad1\vyjimky_du_priklad1\obj\Debug\vyjimky_du_priklad1.Properties.Resources.resources
+C:\Users\filip\source\repos\vyjimky_du_priklad1\vyjimky_du_priklad1\obj\Debug\vyjimky_du_priklad1.csproj.GenerateResource.cache
+C:\Users\filip\source\repos\vyjimky_du_priklad1\vyjimky_du_priklad1\obj\Debug\vyjimky_du_priklad1.csproj.CoreCompileInputs.cache
+C:\Users\filip\source\repos\vyjimky_du_priklad1\vyjimky_du_priklad1\obj\Debug\vyjimky_du_priklad1.exe
+C:\Users\filip\source\repos\vyjimky_du_priklad1\vyjimky_du_priklad1\obj\Debug\vyjimky_du_priklad1.pdb
